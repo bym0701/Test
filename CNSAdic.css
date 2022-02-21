@@ -1,0 +1,135 @@
+table{
+  caption-side: bottom;
+  border: 0.104vw solid black;
+  border-collapse: collapse;
+  padding: 0.521vw;
+  text-align: center;
+  margin-left: 34.375vw;
+  margin-top: 11.979vw;
+  position: absolute;
+  font-size: 1.042vw;
+}
+
+td, th{
+  border: 0.104vw solid black;
+  padding: 1.042vw;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.search_text{
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-left: 34.375vw;
+  margin-top: 3.646vw;
+  position: absolute;
+  font-size: 1.875vw;
+  box-sizing: border-box;
+}
+
+.menu{
+  width: 15%;
+  height: 26.042vw;
+  border: 0.104vw solid black;
+  border-radius: 1.042vw;
+  margin-left: 14.583vw;
+  margin-top: 10.417vw;
+  position: absolute;
+}
+
+.search{
+  width: 45%;
+  height: 3.125vw;
+  border: 0.104vw solid black;
+  border-radius: 1.042vw;
+  margin-left: 34.375vw;
+  margin-top: 6.771vw;
+  font-size: 1.042vw;
+  padding-left: 0.781vw;
+  box-sizing: border-box;
+  position: absolute;
+}
+
+.page1{
+  width: 2.083vw;
+  height: 1.823vw;
+  position: absolute;
+  border-top: 0.104vw solid black;
+  border-bottom: 0.104vw solid black;
+  border-left: 0.104vw solid black;
+  text-align: center;
+  font-size: 0.781vw;
+  margin-left: 34.635vw;
+  margin-top: 41.667vw;
+  padding: 0.104vw;
+  box-sizing: border-box;
+}
+.page2{
+  width: 2.083vw;
+  height: 1.823vw;
+  position: absolute;
+  border-left: 0.104vw solid black;
+  border-top: 0.104vw solid black;
+  border-bottom: 0.104vw solid black;
+  text-align: center;
+  font-size: 1.042vw;
+  margin-left: 36.719vw;
+  margin-top: 41.667vw;
+  padding: 0.052vw;
+  box-sizing: border-box;
+}
+.page3{
+  width: 2.083vw;
+  height: 1.823vw;
+  position: absolute;
+  border-top: 0.104vw solid black;
+  border-bottom: 0.104vw solid black;
+  border-left: 0.104vw solid black;
+  text-align: center;
+  font-size: 1.042vw;
+  margin-left: 38.802vw;
+  margin-top: 41.667vw;
+  padding: 0.052vw;
+  box-sizing: border-box;
+}
+.page4{
+  width: 2.083vw;
+  height: 1.823vw;
+  position: absolute;
+  border-top: 0.104vw solid black;
+  border-bottom: 0.104vw solid black;
+  border-left: 0.104vw solid black;
+  font-size: 1.042vw;
+  margin-left: 40.885vw;
+  margin-top: 41.667vw;
+  padding: 0.052vw;
+  box-sizing: border-box;
+}
+.page5{
+  width: 2.083vw;
+  height: 1.823vw;
+  position: absolute;
+  border-top: 0.104vw solid black;
+  border-bottom: 0.104vw solid black;
+  border-left: 0.104vw solid black;
+  text-align: center;
+  font-size: 1.042vw;
+  margin-left: 42.969vw;
+  margin-top: 41.667vw;
+  padding: 0.052vw;
+  box-sizing: border-box;
+}
+.page6{
+  width: 2.083vw;
+  height: 1.823vw;
+  position: absolute;
+  border: 0.104vw solid black;
+  text-align: center;
+  font-size: 0.781vw;
+  margin-left: 45.052vw;
+  margin-top: 41.667vw;
+  padding: 0.104vw;
+  box-sizing: border-box;
+}
